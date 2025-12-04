@@ -1,9 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyclone-github&theme=gruvbox) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclone-github&theme=gruvbox)
 
-<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyclone-github&theme=gruvbox)
--->
 
 <!--
 not working any more
