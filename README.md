@@ -1,11 +1,17 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyclone-github&theme=gruvbox) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclone-github&theme=gruvbox)
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyclone-github&theme=gruvbox"
+    width="340"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyclone-github&langs_count=10&hide=Shell,Batchfile&theme=gruvbox&layout=donut"
+    width="325"
+  />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyclone-github&theme=gruvbox)
-
-<!--
-not working any more
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cyclone-github&count_private=true&theme=gruvbox&show_icons=true&rank_icon=github)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-github&langs_count=7&hide=bash,batchfile,raku&theme=gruvbox&layout=donut&show_icons=true)]()
--->
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyclone-github&theme=gruvbox"
+    width="670"
+  />
+</p>
