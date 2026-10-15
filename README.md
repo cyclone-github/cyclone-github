@@ -4,7 +4,7 @@
     width="340"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyclone-github&langs_count=10&hide=Shell,Batchfile&theme=gruvbox&layout=donut"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyclone-github&langs_count=10&hide=Shell,Batchfile,Go%20Template&theme=gruvbox&layout=donut"
     width="325"
   />
 </p>
